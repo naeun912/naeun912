@@ -1,4 +1,4 @@
-# Hi there, I'm Naeun (naeun912) 👋 💻
+ # 🌿 naeun912
 
 > **Backend & Frontend Developer | Building Core Business Services & Interactive Dashboards**
 
