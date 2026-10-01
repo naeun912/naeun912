@@ -12,7 +12,6 @@
 #### 🎓 NHN Academy
 [![NHN Academy Bootcamp](https://img.shields.io/badge/NHN_Academy_Bootcamp-0052CC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nhnacademy-bootcamp)
 [![NHN Academy AIoT3](https://img.shields.io/badge/NHN_Academy_AIoT3-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AIoT-3)
-[![FBP Engine Project](https://img.shields.io/badge/FBP_Engine_Project-6DB33F?style=for-the-badge&logo=java&logoColor=white)](https://github.com/naeun912/fbp-engine)
 
 
 ---
