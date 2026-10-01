@@ -4,9 +4,16 @@
 
 ---
 
-### 🚀 Highlight Project: InsightOn
-- 🌐 **Live Demo**: [http://insighton.store](http://insighton.store)
-- 🔗 **GitHub Repository**: [nhnacademy-aiot3-insighton](https://github.com/nhnacademy-aiot3-insighton)
+### 🚀 Highlight Projects & Education
+
+#### 🏢 InsightOn (Smart Office IoT SaaS Platform)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-http%3A%2F%2Finsighton.store-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white)](http://insighton.store)
+[![InsightOn GitHub](https://img.shields.io/badge/InsightOn_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nhnacademy-aiot3-insighton)
+#### 🎓 NHN Academy
+[![NHN Academy Bootcamp](https://img.shields.io/badge/NHN_Academy_Bootcamp-0052CC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nhnacademy-bootcamp)
+[![NHN Academy AIoT3](https://img.shields.io/badge/NHN_Academy_AIoT3-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AIoT-3)
+[![FBP Engine Project](https://img.shields.io/badge/FBP_Engine_Project-6DB33F?style=for-the-badge&logo=java&logoColor=white)](https://github.com/naeun912/fbp-engine)
+
 
 ---
 
