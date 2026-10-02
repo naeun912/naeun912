@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 Highlight Projects & Education
+###  Highlight Projects & Education
 
 #### 🏢 InsightOn (Smart Office IoT SaaS Platform)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-http%3A%2F%2Finsighton.store-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white)](http://insighton.store)
